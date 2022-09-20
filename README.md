@@ -66,7 +66,9 @@ qb-target option
         stashSize = 1250000,
         stashSlots = 125, 
     },
-    ```
+    
+```
+    
     Issues? Make an issue on the repo.
     
     # For More Info Join here https://discord.gg/BKZMnrR2q2
