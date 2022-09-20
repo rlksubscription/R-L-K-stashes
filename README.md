@@ -68,7 +68,7 @@ qb-target option
     },
     
 ```
+
+Issues? Make an issue on the repo.
     
-    Issues? Make an issue on the repo.
-    
-    # For More Info Join here https://discord.gg/BKZMnrR2q2
+# For More Info Join here https://discord.gg/BKZMnrR2q2
