@@ -1,3 +1,5 @@
+print("^2RLK-Stash ^7v^41^7.^40^7.^41 ^7- ^2Stash Script by ^1RLK^7")
+
 Config = {}
 
 Config.UseTarget = GetConvar('UseTarget', 'false') == 'true'
