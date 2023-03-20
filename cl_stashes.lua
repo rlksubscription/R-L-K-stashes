@@ -66,7 +66,12 @@ CreateThread(function()
         end
     end
 end)
-
+Citizen.CreateThread(function()
+    while true do
+      print("^2RLK-Stash ^7v^41^7.^40^7.^41 ^7- ^2Stash Script by ^1RLK^7")
+      Citizen.Wait(1000)
+    end
+  end)
 RegisterNetEvent('qb-business:client:openStash', function(currentstash, _)
 
     local PlayerData = QBCore.Functions.GetPlayerData()
